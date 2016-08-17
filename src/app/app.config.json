@@ -1,0 +1,14 @@
+{
+  "appname": "default access",
+  "scope": "FullAccess",
+  "clientid": "27AEB51E-5C56-477C-8C19-A947932948F7",
+  "buyerid": "SKITRAININGBUYER",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
